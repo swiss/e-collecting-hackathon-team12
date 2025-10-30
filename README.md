@@ -1,6 +1,6 @@
 # DRAFT
 
-# 12) A federated/distributed, privacy-first e-collecting platform/framework that preserves canton sovereignty and gives citizens and canton alike a simple experiance.
+# 12) Federated e-collection framework that respects cantons sovereignty while giving citizens a seamless and privacy first experience.
 
 ## Approach
 
