@@ -1,16 +1,29 @@
-# DRAFT
-
 # 12) Federated e-collection framework that respects cantons sovereignty while giving citizens a seamless and privacy first experience.
 
 ## Approach
 
 A **federated, user-centered e-collecting system** where each canton keeps full sovereignty over its own validation process.
 The platform connects **distributed** canton systems through standardized checksum exchanges, not centralized data.
-Validation pathways (API, SQL, PowerQuery, or e-ID) adapt to local capabilities for evolution or de-volution.
+Validation pathways adapt to local capabilities for evolution or changes.
 Citizens experience a unified, privacy-first interface; cantons retain operational independence.
-**Team needs:** frontend UX, backend/API integration, canton IT interoperability expertise and canton needs samples.
+
+## Team needed:
+- Canton and communes validation experiance
+- Canton IT interoperability expertise 
+- Data Security / cryptography
+- Backend/API integration
+- Frontend
+- dev-ops
+
 
 ## Documentation and Diagrams
+
+<img width="791" height="628" alt="image" src="https://github.com/user-attachments/assets/205eacf9-6c72-45a1-82c5-23d5450072ca" />
+
+
+<img width="1603" height="841" alt="image" src="https://github.com/user-attachments/assets/08d4860d-8777-43bb-9c45-3452c26322d8" />
+
+
 
 ### Flowchart:
 
