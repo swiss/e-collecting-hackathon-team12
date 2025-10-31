@@ -59,7 +59,7 @@ flowchart TD
 
     R3 --> H1 --> H2 --> H3
 
-    %% === VALIDATION DISPATCHER ===
+    %% === VALIDATION DISPATCHER === 
     H3 --> D1["Validation Dispatcher\nSelects pathway by canton policy"]
 
     %% === PATHWAY 1: AUTOMATED VALIDATION ===
@@ -192,6 +192,9 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 ## Team Members
 
-##- SAN / @P6g9YHK6 / ROLE TBD
+- SAN / @P6g9YHK6
+- Yannick Rüfenacht / @Yrüfenacht 
+- Alfa Diop-Wicki / N/A
+- Lionel Stürmer
 
 - ...
