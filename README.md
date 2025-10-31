@@ -15,6 +15,7 @@ Citizens experience a unified, privacy-first interface; cantons retain operation
 - Backend/API integration
 - Frontend
 - dev-ops
+- e-id implementation
 
 
 ## Documentation and Diagrams
