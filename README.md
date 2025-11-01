@@ -1,5 +1,6 @@
 # 12) Federated e-collection framework that respects cantons sovereignty while giving citizens a seamless and privacy first experience.
 ## https://e-initiative.ch/
+<img width="256" height="280" alt="image" src="https://github.com/user-attachments/assets/d3585d63-7d90-4f81-8ee5-6daa8572da61" />
 
 ## Approach
 
