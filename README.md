@@ -193,7 +193,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 ## Team Members
 
 - SAN / @P6g9YHK6
-- Yannick Rüfenacht / @Yrüfenacht 
+- Yannick Rüfenacht / @yruefenacht 
 - Alfa Diop-Wicki / N/A
 - Lionel Stürmer
 
