@@ -194,7 +194,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 - SAN / @P6g9YHK6
 - Yannick Rüfenacht / @yruefenacht 
-- Alfa Diop-Wicki / N/A
+- Alfa Diop-Wicki / AlfaDiop-Wicki
 - Lionel Stürmer
 
 - ...
