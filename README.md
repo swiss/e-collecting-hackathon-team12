@@ -15,6 +15,7 @@ Validation pathways adapt to local capabilities for evolution or changes.
 
 <img width="1603" height="841" alt="image" src="https://github.com/user-attachments/assets/08d4860d-8777-43bb-9c45-3452c26322d8" />
 
+
 ### Registering New Municipalities
 
 ```mermaid
@@ -28,6 +29,10 @@ sequenceDiagram
 ```
 
 ### Signing a petition
+
+<img width="621" height="621" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/5ff664fd-4a4f-4646-9c4b-363fc62f021f" />
+
+
 
 ```mermaid
 sequenceDiagram
