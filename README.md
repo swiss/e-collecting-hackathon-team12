@@ -136,14 +136,15 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 -~~ Provide graph data as tables for screen reader compatibility.  ~~
 -~~ Implement a guided tour.  ~~
 - ~~Update status notices to reflect progress more accurately.~~  
+-~~ sprinkle html caption for accessibility~~
 
 ## Features & Workflow
-- Extend approval process to include all initiative detail changes, not only publication.  
+- ~~Extend approval process to include all initiative detail changes, not only publication.  ~~
 - Enable URL linking support throughout the app.  
-- Add auditing to export, import, and consultation tabs.  
+- Add auditing to export, import, and consultation tabs.
 
 ## Structure & Data
-- Clarify and visually separate communes, committees, and admin orgs in the admin.  
+-~~ Clarify and visually separate communes, committees, and admin orgs in the admin.  ~~
 - Integrate commune–postal code mapping database.  
     - have it linked to onboarded organisation ?
 -~~ Fix initiative editor bugs.  ~~
