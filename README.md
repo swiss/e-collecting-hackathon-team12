@@ -130,7 +130,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
   - ~~Send public key from client.  ~~
   - ~~Display public key during signing.  ~~
 - Create a public key registry page for transparency? (blockchain with extra steps basicaly).  
-- Allow commune to save private key in app if wanted ? how to link with their db if not provided ?
+- Allow commune to save private key in app if wanted ? separated vault for automated key exchange.
 
 ## Accessibility & UX
 -~~ Provide graph data as tables for screen reader compatibility.  ~~
