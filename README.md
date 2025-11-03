@@ -133,9 +133,13 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Visually separated communes, committees, and admin orgs in the org panel.  
 - Fixed initiative editor bugs 
 - Implemented cleaner split of signing options per commune for context-specific configurations, now the process start with either asking for what commune to show supported option per commune or paper path
+- added support for Municipal Initiatives
 
 
 # TODO
+
+##
+- some SVG are broken.
 
 ## Security & Encryption
 - Create a public key registry page for transparency? (blockchain with extra steps basicaly).  
@@ -145,7 +149,9 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 - Enable URL linking support throughout the app it's a pain to be a single url page for navigation but good for prototyping quickly.
 - Add auditing to export, import, and consultation tabs.
+- initiative progress is clean on the front but not the back need to fix this.
 
 ## Structure & Data
 - Integrate commune–postal code mapping database so we are not fitering stuff by post code but ref to this DB.
     - have it linked to onboarded organisation ?
+
