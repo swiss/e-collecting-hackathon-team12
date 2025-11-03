@@ -107,4 +107,44 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Alfa Diop-Wicki / AlfaDiop-Wicki
 - Lionel Stürmer / @lionelsemion
 
-- ...
+# Changelog 
+
+## 01.11.25
+
+- Added RSA encryption for data security.  
+  - Private keys distributed to communes.
+  - Pub key assigned in organisation section.
+- Introduced an additional signing method.  
+- Split organisations and communes into distinct entities.  
+- Secured auditing contexts based on given rsa key.  
+- Added referral codes to all users for collection attribution.  
+- Numerous UI refinements and small tweaks.
+
+
+
+# TODO
+
+## Security & Encryption
+- Allow empty keys for demo environments.  
+- Move "encryption" handling to the browser level:  
+  - Send public key from client.  
+  - Display public key during signing.  
+- Create a public key registry page for transparency? (blockchain with extra steps basicaly).  
+- Allow commune to save private key in app if wanted ? how to link with their db if not provided ?
+
+## Accessibility & UX
+- Provide graph data as tables for screen reader compatibility.  
+- Implement a guided tour.  
+- Update status notices to reflect progress more accurately.  
+
+## Features & Workflow
+- Extend approval process to include all initiative detail changes, not only publication.  
+- Enable URL linking support throughout the app.  
+- Add auditing to export, import, and consultation tabs.  
+
+## Structure & Data
+- Clarify and visually separate communes, committees, and admin orgs in the admin.  
+- Integrate commune–postal code mapping database.  
+    - have it linked to onboarded organisation ?
+- Fix initiative editor bugs.  
+- Implement a cleaner split of signing options per commune to allow context-specific configurations.
