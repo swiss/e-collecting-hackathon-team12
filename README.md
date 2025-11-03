@@ -125,17 +125,17 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 # TODO
 
 ## Security & Encryption
-- Allow empty keys for demo environments.  
-- Move "encryption" handling to the browser level:  
-  - Send public key from client.  
-  - Display public key during signing.  
+- ~~Allow empty keys for demo. ~~ 
+- ~~Move "encryption" handling to the browser level:  ~~
+  - ~~Send public key from client.  ~~
+  - ~~Display public key during signing.  ~~
 - Create a public key registry page for transparency? (blockchain with extra steps basicaly).  
 - Allow commune to save private key in app if wanted ? how to link with their db if not provided ?
 
 ## Accessibility & UX
-- Provide graph data as tables for screen reader compatibility.  
-- Implement a guided tour.  
-- Update status notices to reflect progress more accurately.  
+-~~ Provide graph data as tables for screen reader compatibility.  ~~
+-~~ Implement a guided tour.  ~~
+- ~~Update status notices to reflect progress more accurately.~~  
 
 ## Features & Workflow
 - Extend approval process to include all initiative detail changes, not only publication.  
@@ -146,5 +146,5 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Clarify and visually separate communes, committees, and admin orgs in the admin.  
 - Integrate commune–postal code mapping database.  
     - have it linked to onboarded organisation ?
-- Fix initiative editor bugs.  
-- Implement a cleaner split of signing options per commune to allow context-specific configurations.
+-~~ Fix initiative editor bugs.  ~~
+-~~ Implement a cleaner split of signing options per commune to allow context-specific configurations.~~
