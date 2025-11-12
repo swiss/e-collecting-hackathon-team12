@@ -139,7 +139,6 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Created a public key registry page for transparency.
 - Added transparency report to each initiative page (public and searchable).
 - Exposed public changelog for initiatives.
-- Numerous ui tweaks
 - Now when signing a token is given as proof of signature and is verifiable against transparency report. (QR is also generated)
 
 # TODO
