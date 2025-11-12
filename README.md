@@ -104,6 +104,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 # Changelog
 
+
 ## 01.11.25
 
 - Added RSA encryption for data security.
@@ -127,29 +128,28 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Added HTML captions for accessibility.
 - Extended approval process to include all initiative detail changes (not just publication).
 - Visually separated communes, committees, and admin orgs in the org panel.
-- Fixed initiative editor bugs
-- Implemented cleaner split of signing options per commune for context-specific configurations, now the process start with either asking for what commune to show supported option per commune or paper path
-- added support for Municipal Initiatives
+- Fixed initiative editor bugs.
+- Implemented cleaner split of signing options per commune for context-specific configurations, now the process start with either asking for what commune to show supported option per commune or paper path.
+- Added support for Municipal Initiatives.
+
+## 12.11.25
+
+- Moved language selector to first-visit setup, removing default language.
+- Completed extensive UI tweaks.
+- Created a public key registry page for transparency.
+- Added transparency report to each initiative page (public and searchable).
+- Exposed public changelog for initiatives.
+- Numerous ui tweaks
+- Now when signing a token is given as proof of signature and is verifiable against transparency report. (QR is also generated)
 
 # TODO
 
 - some SVG are broken.
-- move Lang selector on first visit there should not be such a thing as "default language"
-- ui teaks
-
-## Security & Encryption
-
-- Create a public key registry page for transparency
-- Allow commune to save private key in app if wanted ? separated vault for automated key exchange?
-- Transparency report on each initiative page that is public and searchable.
-
-## Features & Workflow
-
-- Enable URL linking support throughout the app it's a pain to be a single url page for navigation but good for prototyping quickly.
-- Add auditing to export, import, and consultation tabs.
-- initiative progress is clean on the front but not the back need to fix this.
-
-## Structure & Data
-
-- Integrate commune–postal code mapping database so we are not fitering stuff by post code but ref to this DB.
-  - have it linked to onboarded organisation ?
+- Create commune–postal code mapping database so we are not filtering stuff by post code but referencing this DB.
+    - Link commune–postal code DB to onboarded organisations.
+    - auto-fill fields based on this DB
+- Enable URL linking support throughout the app (currently single URL page navigation).
+- Add auditing to export, import, and consultation tabs and improve workflow of data audit.
+- Allow commune to save private key in app if wanted, separated vault for automated key exchange?
+- remove page link from logo just load landing when pressed.
+- have a button to purge saved local browser data (lang+theme)
