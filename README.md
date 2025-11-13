@@ -141,8 +141,12 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Exposed public changelog for initiatives.
 - Now when signing a token is given as proof of signature and is verifiable against transparency report. (QR is also generated)
 
-# TODO
+## 13.11.25
 
+- improved backend to have fully automated recompile on changes.
+
+# TODO
+- Optimise and various improvement to docker compose stack
 - some SVG are broken.
 - Create commune–postal code mapping database so we are not filtering stuff by post code but referencing this DB.
     - Link commune–postal code DB to onboarded organisations.
