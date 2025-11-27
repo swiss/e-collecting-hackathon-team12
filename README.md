@@ -146,6 +146,8 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - improved backend to have fully automated recompile on changes.
 
 # TODO
+- Implement demo e-id infra
+- Rework the initiative editor to be more intuitive
 - Optimise and various improvement to docker compose stack
 - some SVG are broken.
 - Create commune–postal code mapping database so we are not filtering stuff by post code but referencing this DB.
@@ -156,3 +158,4 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Allow commune to save private key in app if wanted, separated vault for automated key exchange?
 - remove page link from logo just load landing when pressed.
 - have a button to purge saved local browser data (lang+theme)
+- add theme selector to welcome banner
