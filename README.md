@@ -146,11 +146,12 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - improved backend to have fully automated recompile on changes.
 
 # TODO
+- Make the decryption of the auditing tab more self explanatory 
 - Implement demo e-id infra
 - Rework the initiative editor to be more intuitive
 - Optimise and various improvement to docker compose stack
 - some SVG are broken.
-- Create commune–postal code mapping database so we are not filtering stuff by post code but referencing this DB.
+- Create commune–postal code mapping database so we are not filtering stuff by post code anymore but referencing this DB.
     - Link commune–postal code DB to onboarded organisations.
     - auto-fill fields based on this DB
 - Enable URL linking support throughout the app (currently single URL page navigation).
