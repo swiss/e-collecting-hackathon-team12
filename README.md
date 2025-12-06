@@ -144,19 +144,25 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 ## 13.11.25
 
 - improved backend to have fully automated recompile on changes.
+- 
+## 05.12.25
+
+- Added a transition after providing the private key in the auditing context.
+- Optimized backend data processing to improve site performance.
+- Removed signatures export from the initiative page; consolidated all signatures actions under the Audit tab.
+- Fixed private key field in auditing.
+- Obfuscated the key when populating the auditing context.
+- Added optional SMS validation for communes requiring ID card verification.(exemple with post code 3000)
+- Fixed broken icons.
+- Added auditing features to the Export, Import, and Consultation tabs; improved overall audit workflow.
+- Various UI optimizations.
 
 # TODO
-- Make the decryption of the auditing tab more self explanatory 
 - Implement demo e-id infra
 - Rework the initiative editor to be more intuitive
-- Optimise and various improvement to docker compose stack
-- some SVG are broken.
 - Create commune–postal code mapping database so we are not filtering stuff by post code anymore but referencing this DB.
     - Link commune–postal code DB to onboarded organisations.
     - auto-fill fields based on this DB
 - Enable URL linking support throughout the app (currently single URL page navigation).
-- Add auditing to export, import, and consultation tabs and improve workflow of data audit.
 - Allow commune to save private key in app if wanted, separated vault for automated key exchange?
-- remove page link from logo just load landing when pressed.
-- have a button to purge saved local browser data (lang+theme)
-- add theme selector to welcome banner
+
