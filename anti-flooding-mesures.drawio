@@ -1,0 +1,250 @@
+<mxfile host="draw.antoniazzi.ch" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="29.2.2">
+  <diagram name="Page-1" id="N49llWTn9MmnVlwJSkgZ">
+    <mxGraphModel dx="1202" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-15" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-16" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="JWToken Validation" vertex="1">
+          <mxGeometry relative="1" x="0.4956" y="-1" as="geometry">
+            <mxPoint x="49" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-32" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="BACKEND" vertex="1">
+          <mxGeometry height="80" width="80" x="345" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-6" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="408" />
+              <mxPoint x="410" y="408" />
+            </Array>
+            <mxPoint x="420" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-11" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Auth validation" vertex="1">
+          <mxGeometry relative="1" x="0.1181" y="1" as="geometry">
+            <mxPoint x="-8" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="SSO PROVIDER" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-5" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="350" />
+              <mxPoint x="425" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-10" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Auth request" vertex="1">
+          <mxGeometry relative="1" x="-0.0982" y="-1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-7" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-18" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="requests" vertex="1">
+          <mxGeometry relative="1" x="-0.3805" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-28" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-25" value="Paper Letter sent out">
+          <mxGeometry relative="1" x="0.5977" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="200" y="578" />
+              <mxPoint x="200" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Frontend" vertex="1">
+          <mxGeometry height="80" width="80" x="490" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;E-collect Specific mesures:&lt;/b&gt;&lt;br&gt;Validate JWToken (SSO)&lt;br&gt;Validate required auth level(SSO)&lt;br&gt;&lt;div&gt;SMS Validation&amp;nbsp;(ID Card)&lt;br&gt;E-id Validation (e-id)&lt;br&gt;Check existing signature&lt;/div&gt;&lt;br&gt;&lt;b&gt;Standard web:&lt;/b&gt;&lt;br&gt;Validate format and allowed ranges of fields&lt;br&gt;Enforce required fields&lt;br&gt;Reject unexpected or extra fields&lt;br&gt;Captcha&lt;br&gt;Rate limiting per IP/address&lt;br&gt;&lt;div&gt;Server-side throttling&lt;/div&gt;&lt;div&gt;Geo-fencing&lt;/div&gt;&lt;div&gt;Active bot filtering&lt;/div&gt;&lt;div&gt;Active Detection&#39;s: Botnets and Threat Intelligence, Malware and Spyware,Hacking and Exploits, Attacks and Reconnaissance, Protocol Vulnerabilities&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Validation steps:&lt;/b&gt;&lt;br&gt;If commune linked Registry -&amp;gt; Self validation of the signature no futher validation needed&lt;br&gt;If commune not Linked -&amp;gt; Manual validation/export" vertex="1">
+          <mxGeometry height="360" width="560" x="105" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-23" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-24" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Form&lt;br&gt;+&lt;br&gt;Optional sms token" vertex="1">
+          <mxGeometry relative="1" x="0.4375" y="-1" as="geometry">
+            <mxPoint x="20" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="ID" vertex="1">
+          <mxGeometry height="80" width="80" x="640" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-26" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="vi0Ld1Rr3S2ZXCpvRgRq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-27" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Paper form request" vertex="1">
+          <mxGeometry relative="1" x="-0.3205" as="geometry">
+            <mxPoint x="-7" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-29" edge="1" parent="1" source="vi0Ld1Rr3S2ZXCpvRgRq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-30" connectable="0" parent="vi0Ld1Rr3S2ZXCpvRgRq-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sent by post to the comitee" vertex="1">
+          <mxGeometry relative="1" x="0.4167" as="geometry">
+            <mxPoint x="-43" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vi0Ld1Rr3S2ZXCpvRgRq-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Paper form" vertex="1">
+          <mxGeometry height="80" width="80" x="365" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-26" edge="1" parent="1" source="4atrzuQvabby8WSke69g-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="4atrzuQvabby8WSke69g-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-27" connectable="0" parent="4atrzuQvabby8WSke69g-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="7 JWToken Validation" vertex="1">
+          <mxGeometry relative="1" x="0.4956" y="-1" as="geometry">
+            <mxPoint x="54" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-141" edge="1" parent="1" source="4atrzuQvabby8WSke69g-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040.3478260869565" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="BACKEND" vertex="1">
+          <mxGeometry height="80" width="80" x="1000" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-54" edge="1" parent="1" source="4atrzuQvabby8WSke69g-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="4atrzuQvabby8WSke69g-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="858" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-58" connectable="0" parent="4atrzuQvabby8WSke69g-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3 Authenticate" vertex="1">
+          <mxGeometry relative="1" x="0.1168" y="-1" as="geometry">
+            <mxPoint x="-4" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="SSO PROVIDER" vertex="1">
+          <mxGeometry height="80" width="80" x="790" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-35" edge="1" parent="1" source="4atrzuQvabby8WSke69g-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4atrzuQvabby8WSke69g-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-36" connectable="0" parent="4atrzuQvabby8WSke69g-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="6 request" vertex="1">
+          <mxGeometry relative="1" x="-0.3805" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-52" edge="1" parent="1" source="4atrzuQvabby8WSke69g-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="4atrzuQvabby8WSke69g-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1195" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-56" connectable="0" parent="4atrzuQvabby8WSke69g-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;1 SSO request&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1517" as="geometry">
+            <mxPoint x="40" y="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Frontend" vertex="1">
+          <mxGeometry height="80" width="80" x="1155" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-53" edge="1" parent="1" source="4atrzuQvabby8WSke69g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4atrzuQvabby8WSke69g-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-57" connectable="0" parent="4atrzuQvabby8WSke69g-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2 Forward SSO request" vertex="1">
+          <mxGeometry relative="1" x="-0.4005" y="-1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Key proxy" vertex="1">
+          <mxGeometry height="80" width="80" x="980" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-55" edge="1" parent="1" source="4atrzuQvabby8WSke69g-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.348;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="4atrzuQvabby8WSke69g-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1110" y="298" />
+              <mxPoint x="1183" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-59" connectable="0" parent="4atrzuQvabby8WSke69g-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4 Send back data with extra certificate" vertex="1">
+          <mxGeometry relative="1" x="-0.435" y="-1" as="geometry">
+            <mxPoint x="-20" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-61" edge="1" parent="1" source="4atrzuQvabby8WSke69g-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="4atrzuQvabby8WSke69g-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-62" connectable="0" parent="4atrzuQvabby8WSke69g-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4 JWToken Validation" vertex="1">
+          <mxGeometry relative="1" x="0.4956" y="-1" as="geometry">
+            <mxPoint x="54" y="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-88" edge="1" parent="1" source="4atrzuQvabby8WSke69g-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-90" connectable="0" parent="4atrzuQvabby8WSke69g-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Extra validation with certificate" vertex="1">
+          <mxGeometry relative="1" x="0.1467" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="BACKEND" vertex="1">
+          <mxGeometry height="80" width="80" x="1410" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-84" edge="1" parent="1" source="4atrzuQvabby8WSke69g-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="4atrzuQvabby8WSke69g-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-85" connectable="0" parent="4atrzuQvabby8WSke69g-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2 Data sent + certificate of integrity" vertex="1">
+          <mxGeometry relative="1" x="-0.1483" y="-2" as="geometry">
+            <mxPoint x="7" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="SSO PROVIDER" vertex="1">
+          <mxGeometry height="80" width="80" x="1260" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-68" edge="1" parent="1" source="4atrzuQvabby8WSke69g-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4atrzuQvabby8WSke69g-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-87" connectable="0" parent="4atrzuQvabby8WSke69g-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3 Request" vertex="1">
+          <mxGeometry relative="1" x="-0.4177" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-82" edge="1" parent="1" source="4atrzuQvabby8WSke69g-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="4atrzuQvabby8WSke69g-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-83" connectable="0" parent="4atrzuQvabby8WSke69g-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1 Auth request" vertex="1">
+          <mxGeometry relative="1" x="-0.0472" y="-2" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Frontend" vertex="1">
+          <mxGeometry height="80" width="80" x="1550" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-80" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Current proposal" vertex="1">
+          <mxGeometry height="60" width="120" x="345" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-81" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="SSO Alternative With proxy" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-86" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Alternative to SSO Process with SSO Provider cooperation" vertex="1">
+          <mxGeometry height="90" width="210" x="1345" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4atrzuQvabby8WSke69g-142" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Extra validation with certificate" vertex="1">
+          <mxGeometry x="1040" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
