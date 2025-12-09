@@ -106,7 +106,6 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 
 ## 01.11.25
-
 - Added RSA encryption for data security.
   - Private keys distributed to communes.
   - Pub key assigned in organisation section.
@@ -117,7 +116,6 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Numerous UI refinements and small tweaks.
 
 ## 03.11.25
-
 - Moved demo encryption handling to browser level:
   - Public key sent to browser.
   - Public key displayed during signing.
@@ -133,7 +131,6 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Added support for Municipal Initiatives.
 
 ## 12.11.25
-
 - Moved language selector to first-visit setup, removing default language.
 - Completed extensive UI tweaks.
 - Created a public key registry page for transparency.
@@ -142,11 +139,9 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Now when signing a token is given as proof of signature and is verifiable against transparency report. (QR is also generated)
 
 ## 13.11.25
-
 - improved backend to have fully automated recompile on changes.
-- 
+  
 ## 05.12.25
-
 - Added a transition after providing the private key in the auditing context.
 - Optimized backend data processing to improve site performance.
 - Removed signatures export from the initiative page; consolidated all signatures actions under the Audit tab.
@@ -157,7 +152,15 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Added auditing features to the Export, Import, and Consultation tabs; improved overall audit workflow.
 - Various UI optimizations.
 
+## 09.12.25
+- Properly linked backend organisation data to front-end via post-code maping
+- Couple of ui fixes
+- Added application reset button
+- Added version number 
+
+
 # TODO
+- add more data to back-end to not have to assume front-end input is valid
 - Implement demo e-id infra
 - Rework the initiative editor to be more intuitive
 - Create commune–postal code mapping database so we are not filtering stuff by post code anymore but referencing this DB.
