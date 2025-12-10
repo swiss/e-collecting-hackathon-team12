@@ -160,6 +160,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 
 # TODO
+- new "graveyard" page for refused initiatives
 - add more data to back-end to not have to assume front-end input is valid
 - Implement demo e-id infra
 - Rework the initiative editor to be more intuitive
