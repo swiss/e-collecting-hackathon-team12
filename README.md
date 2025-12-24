@@ -156,18 +156,31 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Properly linked backend organisation data to front-end via post-code maping
 - Couple of ui fixes
 - Added application reset button
-- Added version number 
+- Added version number
+  
+## 24.12.25 
+
+- Introduced a new workflow to officially refuse an initiative while keeping it available for viewing, including a clear explanation.
+  ![Refusal workflow](https://github.com/user-attachments/assets/528cf308-5ebd-41f6-9e2a-20140abd719a)
+
+- Synced the system with the BFS registry of communes; the list is now fully complete.
+  ![BFS communes registry sync](https://github.com/user-attachments/assets/179bba65-1bcc-47af-a092-d208274ec5ae)
+
+- Removed postcode references across most of the application; BFS ID is now the primary internal reference.
+- Improved the signature flow
+- Deleted all previous commune data and migrated fully to the new synced database.
+- Bunches of tweaks and corrections to the UI
+
+
 
 
 # TODO
-- build the private key management framework 
-- new "graveyard" page for refused initiatives
-- add more data to back-end to not have to assume front-end input is valid
+- Improve the graphs to allow zoom and move
+- now that filters are saved add button to reset filters to avoid un-intuitive behavior 
+- build the private key management framework
+- new framework to add data on top of the OFS Layer
 - Implement demo e-id infra
 - Rework the initiative editor to be more intuitive
-- Create commune–postal code mapping database so we are not filtering stuff by post code anymore but referencing this DB.
-    - Link commune–postal code DB to onboarded organisations.
-    - auto-fill fields based on this DB
 - Enable URL linking support throughout the app (currently single URL page navigation).
 - Allow commune to save private key in app if wanted, separated vault for automated key exchange?
 
