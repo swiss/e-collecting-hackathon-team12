@@ -173,6 +173,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 
 # TODO
+- Improve UI of the auditing decryption panel
 - Grouping features between communes to allow single management for multiples communes
 - Improve the graphs to allow zoom and move
 - now that filters are saved add button to reset filters to avoid un-intuitive behavior 
