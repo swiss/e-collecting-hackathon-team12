@@ -162,10 +162,8 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 - Introduced a new workflow to officially refuse an initiative while keeping it available for viewing, including a clear explanation.
   ![Refusal workflow](https://github.com/user-attachments/assets/528cf308-5ebd-41f6-9e2a-20140abd719a)
-
 - Synced the system with the BFS registry of communes; the list is now fully complete.
   ![BFS communes registry sync](https://github.com/user-attachments/assets/179bba65-1bcc-47af-a092-d208274ec5ae)
-
 - Removed postcode references across most of the application; BFS ID is now the primary internal reference.
 - Improved the signature flow
 - Deleted all previous commune data and migrated fully to the new synced database.
@@ -175,6 +173,7 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 
 
 # TODO
+- Grouping features between communes to allow single management for multiples communes
 - Improve the graphs to allow zoom and move
 - now that filters are saved add button to reset filters to avoid un-intuitive behavior 
 - build the private key management framework
