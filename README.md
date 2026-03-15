@@ -184,3 +184,4 @@ first demo available at [https://e-initiative.ch/](https://e-initiative.ch/)
 - Enable URL linking support throughout the app (currently single URL page navigation).
 - Allow commune to save private key in app if wanted, separated vault for automated key exchange?
 - replace RSA with AEAD or else for dual key custody ? (Communes + Federal chancelery)
+- move back-end to Django or equivalent for long term sustainability
